@@ -1,0 +1,4 @@
+doc2 file is created for merge command
+means ,here a branch is created called "duplicate"
+-doc2 file is created and not yet added to duplicate branch and in the absence of master branch also
+cause it is created in duplicate branch 
