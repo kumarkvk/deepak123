@@ -1,0 +1,2 @@
+this is file is to add to index without -git add command
+second modified file will be added with out git add command

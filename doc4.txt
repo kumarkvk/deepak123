@@ -1,0 +1,3 @@
+this doc4 file is for adding to index not for commit
+here i m testing the newtext document file for staging area.
+and i use the command (git commit -a -m "change all the files in the dir ")
