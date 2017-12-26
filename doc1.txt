@@ -1,3 +1,0 @@
-this is file is to add to index without -git add command
-second modified file will be added with out git add command
-here commiting the message and want revert back
